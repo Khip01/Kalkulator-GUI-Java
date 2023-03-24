@@ -24,7 +24,7 @@ Software yang dibutuhkan:
 ### Instruksi:
 - Clone repo ini atau download repo ini.
 - Open Project di Netbeans lalu pilih project didalam folder yang sudah di clone tadi
-- Jalankan
+- Jalankan JframeKalkulator.java
 ---
 
 # Use
